@@ -1,0 +1,133 @@
+{
+    "myProfile": "My Profile",
+    "personalInformation": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "accountSettings": "Account Settings",
+    "language": "Language",
+    "notifications": "Notifications",
+    "security": "Security",
+    "changePassword": "Change Password",
+    "twoFactor": "Two-Factor Authentication",
+    "dataManagement": "Data Management",
+    "exportData": "Export Data",
+    "deleteAccount": "Delete Account",
+    "saveChanges": "Save Changes",
+    "confirmSave": "Do you want to save these changes?",
+    "changesSaved": "Changes saved successfully!",
+  
+    "healthMonitor": "Health Monitor 2.0",
+    "weeklyChart": "Weekly Heart Rate Trend",
+    "healthOverview": "Health Overview",
+    "liveMonitoring": "Live monitoring",
+    "heartRate": "Heart Rate",
+    "oxygenLevel": "Oxygen Level",
+    "temperature": "Temperature",
+    "recentAlerts": "Recent Alerts",
+    "realTimeUpdates": "Real-time Updates",
+    "lastUpdate": "Last update",
+    "connected": "Connected",
+    "aiAdvisor": "AI Health Advisor",
+    "dailyTip": "Daily Health Tip",
+    "weatherTip": "Weather & Safety Tip",
+  
+    "healthStandards": "General Health Standards",
+    "healthStandardsText": {
+      "title": "🧬 General Health Standards",
+      "heartTitle": "Heart Rate: 60–100 BPM (normal)",
+      "heartBelow": "Below 60 may indicate bradycardia, which can be normal for athletes but may need medical attention if accompanied by dizziness or fatigue.",
+      "heartAbove": "Above 100 could indicate tachycardia, possibly due to exercise or stress, but persistent high rates may require a check-up.",
+      "oxygenTitle": "Oxygen Level: 95–100% (normal)",
+      "oxygenDrop": "If it drops below 90%, it can be a sign that your body isn’t getting enough oxygen, which may need medical attention.",
+      "temperatureTitle": "Temperature: 36.5–37.5°C (normal)",
+      "feverAbove": "Above 38°C usually indicates a fever, often linked to infection or inflammation."
+    },
+  
+    "aiFeedback": {
+      "normal": "✅ All vitals are within a normal range. Keep it up!",
+      "highHeartRate": "⚠️ High heart rate detected. Try to rest and consult a doctor if persistent.",
+      "lowHeartRate": "⚠️ Low heart rate. Check if you're feeling dizzy or weak.",
+      "lowOxygen": "⚠️ Low oxygen level. Breathe deeply or check your environment.",
+      "fever": "⚠️ Elevated temperature. Possible fever. Stay hydrated."
+    },
+  
+    "tips": {
+      "drinkWater": "Drink at least 8 cups of water daily 💧",
+      "walk": "Take a 10-minute walk to stay active 🚶‍♂️",
+      "lightMeal": "Avoid heavy meals late at night 🍽️",
+      "breathe": "Practice deep breathing for 5 minutes 🧘‍♀️",
+      "sunSafety": "☀️ It's sunny and hot today. Stay hydrated and avoid direct sunlight."
+    },
+  
+    "days": {
+      "mon": "Mon",
+      "tue": "Tue",
+      "wed": "Wed",
+      "thu": "Thu",
+      "fri": "Fri",
+      "sat": "Sat",
+      "sun": "Sun"
+    },
+  
+    "alerts": {
+      "normalHeartRate": "Normal heart rate",
+      "stableOxygen": "Stable oxygen level"
+    },
+  
+    "home": "Home",
+    "wearer": "Wearer",
+    "gps": "GPS",
+    "qr": "QR",
+    "sos": "SOS",
+    "settings": "Settings",
+  
+    "wearerInfo": {
+      "title": "Wearer Information"
+    },
+    "personalInformation": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "age": "Age",
+    "years": "years",
+    "gender": "Gender",
+    "bloodType": "Blood Type",
+    "idNumber": "ID Number",
+    "passportNumber": "Passport Number",
+    "homeLocation": "Home Location",
+  
+    "medicalInfo": {
+      "title": "Medical Information",
+      "conditions": "Medical Conditions",
+      "allergies": "Allergies",
+      "medications": "Medications"
+    },
+  
+    "emergencyContacts": "Emergency Contacts",
+  
+    "gpsTracking": "GPS Tracking",
+    "realTimeLocation": "Real-time Location",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "accuracy": "Accuracy",
+    "openInGoogleMaps": "Open in Google Maps",
+    "gettingLocation": "Getting your location...",
+    "connectedDevices": "Connected Devices",
+    "lastPosition": "Last position",
+    "lastSync": "Last sync",
+    "minutesAgo": "{{count}} minutes ago",
+  
+    "qrScannerTitle": "QR Scanner & Devices",
+    "scanQRCode": "Scan a QR Code",
+    "cameraActivating": "Camera is activating...",
+    "scanNewDevice": "Scan a new device",
+    "associatedDevices": "Associated Devices",
+  
+    "Type 2 Diabetes": "Type 2 Diabetes",
+    "Hypertension": "Hypertension",
+    "Penicillin": "Penicillin",
+    "Peanuts": "Peanuts"
+  }
+  

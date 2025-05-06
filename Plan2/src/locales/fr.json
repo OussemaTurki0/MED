@@ -1,0 +1,127 @@
+{
+    "myProfile": "Mon profil",
+    "personalInformation": "Informations personnelles",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "name": "Nom",
+    "email": "Email",
+    "phone": "Téléphone",
+    "accountSettings": "Paramètres du compte",
+    "language": "Langue",
+    "notifications": "Notifications",
+    "security": "Sécurité",
+    "changePassword": "Changer le mot de passe",
+    "twoFactor": "Authentification à deux facteurs",
+    "dataManagement": "Gestion des données",
+    "exportData": "Exporter les données",
+    "deleteAccount": "Supprimer le compte",
+    "saveChanges": "Enregistrer les modifications",
+    "confirmSave": "Voulez-vous enregistrer ces modifications ?",
+    "changesSaved": "Modifications enregistrées avec succès !",
+  
+    "healthMonitor": "Surveillance de la santé 2.0",
+    "weeklyChart": "Tendance hebdomadaire du rythme cardiaque",
+    "healthOverview": "Aperçu de la santé",
+    "liveMonitoring": "Surveillance en direct",
+    "heartRate": "Fréquence cardiaque",
+    "oxygenLevel": "Niveau d'oxygène",
+    "temperature": "Température",
+    "recentAlerts": "Alertes récentes",
+    "realTimeUpdates": "Mises à jour en temps réel",
+    "lastUpdate": "Dernière mise à jour",
+    "connected": "Connecté",
+    "aiAdvisor": "Conseiller santé IA",
+    "dailyTip": "Conseil santé du jour",
+    "weatherTip": "Conseil météo et sécurité",
+  
+    "healthStandards": "Normes générales de santé",
+    "healthStandardsText": {
+      "title": "🧬 Normes générales de santé",
+      "heartTitle": "Fréquence cardiaque : 60 à 100 BPM (normale)",
+      "heartBelow": "Moins de 60 BPM peut indiquer une bradycardie, ce qui est parfois normal chez les athlètes, mais peut nécessiter une attention médicale s'il y a des vertiges ou de la fatigue.",
+      "heartAbove": "Plus de 100 BPM pourrait indiquer une tachycardie, possiblement causée par l'exercice ou le stress, mais un rythme élevé persistant peut nécessiter un examen médical.",
+      "oxygenTitle": "Niveau d’oxygène : 95 à 100 % (normal)",
+      "oxygenDrop": "Si le niveau descend en dessous de 90 %, cela peut signifier que votre corps ne reçoit pas assez d'oxygène et peut nécessiter une attention médicale.",
+      "temperatureTitle": "Température : 36,5 à 37,5 °C (normale)",
+      "feverAbove": "Plus de 38 °C indique généralement une fièvre, souvent liée à une infection ou une inflammation."
+    },
+  
+    "aiFeedback": {
+      "normal": "✅ Tous les signes vitaux sont dans la normale. Continuez comme ça !",
+      "highHeartRate": "⚠️ Fréquence cardiaque élevée détectée. Essayez de vous reposer et consultez un médecin si cela persiste.",
+      "lowHeartRate": "⚠️ Fréquence cardiaque basse. Vérifiez si vous ressentez des étourdissements ou de la faiblesse.",
+      "lowOxygen": "⚠️ Faible niveau d'oxygène. Respirez profondément ou vérifiez votre environnement.",
+      "fever": "⚠️ Température élevée. Fièvre possible. Restez hydraté."
+    },
+  
+    "tips": {
+      "drinkWater": "Buvez au moins 8 verres d'eau par jour 💧",
+      "walk": "Faites une promenade de 10 minutes pour rester actif 🚶‍♂️",
+      "lightMeal": "Évitez les repas lourds tard le soir 🍽️",
+      "breathe": "Pratiquez la respiration profonde pendant 5 minutes 🧘‍♀️",
+      "sunSafety": "☀️ Il fait chaud et ensoleillé aujourd’hui. Restez hydraté et évitez l’exposition directe au soleil."
+    },
+  
+    "days": {
+      "mon": "Lun",
+      "tue": "Mar",
+      "wed": "Mer",
+      "thu": "Jeu",
+      "fri": "Ven",
+      "sat": "Sam",
+      "sun": "Dim"
+    },
+  
+    "alerts": {
+      "normalHeartRate": "Fréquence cardiaque normale",
+      "stableOxygen": "Niveau d'oxygène stable"
+    },
+  
+    "home": "Accueil",
+    "wearer": "Porteur",
+    "gps": "GPS",
+    "qr": "QR",
+    "sos": "SOS",
+    "settings": "Paramètres",
+  
+    "wearerInfo": {
+      "title": "Informations sur le porteur"
+    },
+    "age": "Âge",
+    "years": "ans",
+    "gender": "Sexe",
+    "bloodType": "Groupe sanguin",
+  
+    "medicalInfo": {
+      "title": "Informations médicales",
+      "conditions": "Affections médicales",
+      "allergies": "Allergies",
+      "medications": "Médicaments"
+    },
+  
+    "emergencyContacts": "Contacts d'urgence",
+  
+    "gpsTracking": "Suivi GPS",
+    "realTimeLocation": "Localisation en temps réel",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "accuracy": "Précision",
+    "openInGoogleMaps": "Ouvrir dans Google Maps",
+    "gettingLocation": "Localisation en cours...",
+    "connectedDevices": "Appareils connectés",
+    "lastPosition": "Dernière position",
+    "lastSync": "Dernière synchronisation",
+    "minutesAgo": "il y a {{count}} minute(s)",
+  
+    "qrScannerTitle": "Scanner QR & Appareils",
+    "scanQRCode": "Scanner un code QR",
+    "cameraActivating": "Activation de la caméra...",
+    "scanNewDevice": "Scanner un nouvel appareil",
+    "associatedDevices": "Appareils associés",
+  
+    "Type 2 Diabetes": "Diabète de type 2",
+    "Hypertension": "Hypertension",
+    "Penicillin": "Pénicilline",
+    "Peanuts": "Arachides"
+  }
+  
