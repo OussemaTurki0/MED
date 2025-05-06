@@ -76,3 +76,14 @@ This project serves as a final-year machine learning capstone and showcases the 
 
 ---
 
+Vital Monitoring – Heart rate, oxygen, and temperature.
+
+Health Issue Detection – Detect abnormal readings.
+
+AI Diagnosis Assistant – Based on vitals + asking questions.
+
+Doctor Recommendation – Based on condition.
+
+Location-Based Search – Finds nearest doctor by specialty.
+
+Appointment System – Booking or email to doctor.
